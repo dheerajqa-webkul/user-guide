@@ -27,7 +27,10 @@ module.exports = [
       ["products/bundle", "Bundle Product"],
       ["products/grouped", "Grouped Product"],
       ["products/downloadable", "Downloadable Product"],
-      ["products/booking", "Booking Product"],
+      ["products/booking", "Booking Product"],    
+      ["products/booking/default", "Default Booking"],
+      ["products/booking/appointment", "Appointment Booking"],
+
     ]),
   },
   {
