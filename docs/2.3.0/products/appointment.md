@@ -32,7 +32,7 @@ When creating an Appointment Booking Product, you need to configure the followin
 
    ![Attribute](../../assets/2.3.0/images/booking-product/duration.png)
 
-### Front End 
+**Front End** 
 
 Customers will select a date → choose an available appointment slot → proceed to checkout.
 
